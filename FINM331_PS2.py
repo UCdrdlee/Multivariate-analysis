@@ -332,3 +332,6 @@ ax2.set_ylabel('PC2')
 plt.scatter(coordinates.iloc[:,0], coordinates.iloc[:,1],label = A_hat.index,color='r')
 plt.scatter(coordinates2.iloc[:,0], coordinates2.iloc[:,1],label = A_hat.columns,color='g')
 plt.show()
+
+
+## The end of code ## 
